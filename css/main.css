@@ -1,3 +1,4 @@
 body {
-	background-image: url("images/globe.jpg")
+    background-image: url("images/globe.jpg");
+    width: 100%;
 }
