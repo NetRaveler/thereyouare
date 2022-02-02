@@ -1,4 +1,5 @@
 body {
-    background-image: url("images/globe.jpg");
+    background-image: url("../images/globe.jpg");
+    display: block;
     width: 100%;
 }
