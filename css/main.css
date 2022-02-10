@@ -1,5 +1,30 @@
 body {
     background-image: url("../images/globe.jpg");
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
     width: 100%;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+#bio {
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+}
+
+#bioContainer {
+    display: flex;
+    background-color: rgba(184, 255, 184, 0.63);
+    padding: 20px;
+    margin: 10px;
+}
+
+#profilePic {
+    width: 400px;
 }
